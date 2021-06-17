@@ -1,2 +1,3 @@
 #!/bin/bash
-cc -c CFILE.c  
+cc -c CFILE.c
+CFILE.o
