@@ -1,2 +1,2 @@
 #!/bin/bash
-echo CFILE=3-main.c>cisfun
+gcc $CFILE -o $cisfun
