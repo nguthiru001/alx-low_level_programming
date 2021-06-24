@@ -1,2 +1,2 @@
 #!/bin/bash
-echo CFILE=2-main.c>main.s
+ gcc -S $CFILE > c.s
